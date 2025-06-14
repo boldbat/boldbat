@@ -266,42 +266,11 @@ AI & Computer Science
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=60&section=header&text=🎮%20QUANTUM%20PACMAN%20REALM%20🎮&fontSize=20&fontColor=00d9ff&animation=twinkling" alt="Pacman Header"/>
-
-<br/>
-
-<!-- Enhanced Quantum Pacman -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/enhanced-pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/enhanced-pacman-contribution-graph.svg">
-  <img alt="🎮 Enhanced Quantum Pacman eating contribution dots across the space-time continuum" src="https://raw.githubusercontent.com/boldbat/boldbat/output/enhanced-pacman-contribution-graph.svg" width="100%" style="max-width: 1200px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 217, 255, 0.4); border: 2px solid rgba(0, 217, 255, 0.2);">
-</picture>
-
-<!-- Fallback Original Pacman -->
-<details>
-<summary>🎯 Alternative Pacman View</summary>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg">
-  <img alt="🎮 Original Pacman contribution graph" src="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg" width="100%">
-</picture>
-</details>
-
-<sub>🌟 *Watch Pacman devour commits across the quantum contribution matrix* 🌟</sub>
-
-<br/>
-
-**🎯 Backup Contribution Snake:**
-<details>
-<summary>🐍 Click to reveal the contribution snake</summary>
-<br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
-  <img alt="🐍 Contribution Snake" src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg" width="100%">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
 </picture>
-</details>
 
 </div>
 

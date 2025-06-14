@@ -1,8 +1,8 @@
-name: 🎮 Generate Quantum Pacman Animation
+name: Generate Snake Animation
 
 on:
-  schedule: # execute every 6 hours for more frequent updates
-    - cron: "0 */6 * * *"
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight
 
   workflow_dispatch:
 
@@ -15,18 +15,10 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 5
 
     steps:
-      - name: 🎯 Checkout repository
-        uses: actions/checkout@v4
-
-      - name: 🎮 Generate enhanced pacman contribution graph
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-
-      - name: 🌟 Generate snake contribution graph (backup)
+      - name: Generate snake contribution graph
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
@@ -34,11 +26,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: 🚀 Deploy to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: "🎮 Update Quantum Pacman & Snake animations"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
