@@ -265,26 +265,12 @@ AI & Computer Science
 ### 🔥 **Contribution Heatmap**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=🌠%20Cosmic%20Code%20Frequency%20🌠" alt="Cosmic Contribution Graph" />
-</div>
 
-<br/>
-
-### 🎮 **Cosmic Pacman Adventure**
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,12,20,24&height=60&section=header&text=🎮%20PACMAN%20EATING%20CONTRIBUTIONS%20🎮&fontSize=18&fontColor=64ffda&animation=blinking" alt="Pacman Header"/>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg" alt="🎮 Pacman eating my contributions"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/🎮_GAME_STATUS-ACTIVE-00D9FF?style=for-the-badge&labelColor=0B1426&logo=gamepad&logoColor=64ffda" alt="Game Status"/>
-<img src="https://img.shields.io/badge/🏆_HIGH_SCORE-∞_COMMITS-FF6B6B?style=for-the-badge&labelColor=0B1426&logo=trophy&logoColor=ff6b6b" alt="High Score"/>
-<img src="https://img.shields.io/badge/👾_LEVEL-COSMIC_MASTER-9C27B0?style=for-the-badge&labelColor=0B1426&logo=star&logoColor=9c27b0" alt="Level"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
 
