@@ -1,118 +1,337 @@
-# Hi there, I'm BOLDBAT.K 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Full-Stack+Developer;Founder+%26+CEO+at+Oyu+Intelligence;Building+the+Future+with+AI;Always+Learning+Something+New" alt="Typing SVG" />
+
+# 🚀 BOLDBAT
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Founder+%26+CEO+%40+Oyu+Intelligence;5%2B+Hackathon+Winner+%F0%9F%8F%86;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/boldbat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:boldbat.nz@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://boldbat.info)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@boldbat.nz)
+[![Location](https://img.shields.io/badge/Mongolia-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=FF6B6B)](https://maps.google.com/?q=Ulaanbaatar,Mongolia)
+
 </div>
 
+---
+
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boldbat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boldbat.nz@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://boldbat.dev)
+
+### 🎯 **AI Entrepreneur** • **Full-Stack Innovator** • **5x Hackathon Champion**
+
+*Transforming ideas into intelligent solutions that shape the future*
 
 </div>
 
-## 🚀 About Me
+<br/>
 
-I'm a passionate **AI Engineer** and **Full-Stack Developer** from Ulaanbaatar, Mongolia, currently pursuing my Bachelor's in Artificial Intelligence at MUST. As the **Founder & CEO of Oyu Intelligence LLC**, I'm dedicated to building innovative AI-powered solutions that make a real impact.
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-- 🔭 Currently working on **AI-driven mobile applications** and **versatile AI solutions**
-- 🌱 Learning advanced **Computer Vision** and **Agentic AI** systems
-- 👯 Looking to collaborate on **AI/ML projects** and **innovative startups**
-- 💬 Ask me about **AI, Full-Stack Development, Flutter, or Entrepreneurship**
-- ⚡ Fun fact: I've won **5+ hackathons** and led **10+ volunteer projects**
+**🏢 Current Role**
+Founder & CEO at **Oyu Intelligence LLC**
+*Building AI-powered mobile solutions*
 
-## 🛠️ Tech Stack
+</td>
+<td align="center" width="50%">
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**🎓 Education**
+AI & Computer Science
+*Mongolian University of Science & Technology*
 
-### Frameworks & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</td>
+</tr>
+</table>
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<br/>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
-
-## 🏆 Achievements & Awards
-
-🥇 **1st Place** - Sustainable School Hackathon (2022)  
-🥇 **1st Place** - National Anti-Corruption Hackathon (2024)  
-🥈 **2nd Place** - UNDP Digital Solutions Hackathon (2023)  
-🥉 **3rd Place** - National Data Telescope Hackathon (2023)  
-🏅 **Special Prize** - DX Cup Winter (2024)  
-🏅 **Special Prize** - National Karl Popper Debate Championship (2022)  
-
-## 💼 Professional Experience
-
-### 🚀 Founder & CEO | Oyu Intelligence LLC
-*September 2024 – Present*
-- Leading AI product development with focus on versatile mobile applications
-- Managing cross-functional teams of developers, designers, and marketers
-- Overseeing user testing, beta launches, and iterative improvements
-
-### 🎨 Creative Lead | Ehlel Brand
-*June 2024 - September 2024*
-- Directed visual content creation and digital marketing campaigns
-- Led visual branding for "Modest-Residence" project
-
-### 💻 Freelance Web Developer
-*2019 - 2024*
-- Developed **50+ custom websites** with **100% client satisfaction**
-- Specialized in modern e-commerce platforms using Next.js
-
-## 🔥 Featured Projects
-
-### 🚗 AI-based Car Sharing App
-- Implemented vehicle recognition using **YOLO V8**
-- Optimized shared mobility solutions efficiency
-
-### 🎯 AI-driven Career Planning App
-- Developed personalized career advice platform
-- AI-powered recommendations based on user input
-
-### 🎮 AI Chatbot Integration in 2D Game
-- Created educational game with AI chatbot NPC
-- Focused on anti-corruption education strategies
-
-### 🇲🇳 Mongolia Guide App
-- All-in-one platform for freelancers and digital nomads
-- Features coworking spaces, local laws, and job opportunities
-
-## 📊 GitHub Stats
+## ⚡ **Tech Arsenal**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" width="100%"/>
+<br/><sub><b>Core Languages</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react" width="100%"/>
+<br/><sub><b>Frameworks</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" width="75%"/>
+<br/><sub><b>AI/ML</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma,ps,ae" width="75%"/>
+<br/><sub><b>Design</b></sub>
+</td>
+</tr>
+</table>
+
 </div>
+
+<br/>
+
+## 🏆 **Hall of Fame**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldbat&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+| 🥇 **Champion** | 🥈 **Runner-up** | 🥉 **Third Place** | 🏅 **Special Recognition** |
+|:---:|:---:|:---:|:---:|
+| **Anti-Corruption Hackathon** 2024 | **UNDP Digital Solutions** 2023 | **Data Telescope Hackathon** 2023 | **DX Cup Winter** 2024 |
+| **Sustainable School Hackathon** 2022 | | | **Karl Popper Debate** 2022 |
+
 </div>
+
+<br/>
+
+## 🌌 **Quantum Capabilities**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 **Cognitive Architecture**
+```yaml
+Neural Synthesis:    ▓▓▓▓▓▓▓▓▓▓ Mastery
+Pattern Recognition: ▓▓▓▓▓▓▓▓▓░ Advanced
+Quantum Learning:    ▓▓▓▓▓▓▓▓▓▓ Mastery
+```
+<sub>*Where silicon meets synapses*</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🌐 **Reality Weaving**
+```yaml
+Interface Conjuring: ▓▓▓▓▓▓▓▓▓▓ Mastery
+System Orchestration: ▓▓▓▓▓▓▓▓▓▓ Mastery
+Mobile Transmutation: ▓▓▓▓▓▓▓▓▓░ Advanced
+```
+<sub>*Crafting digital dimensions*</sub>
+
+</td>
+<td align="center" width="33%">
+
+### 🚀 **Innovation Catalyst**
+```yaml
+Vision Materialization: ▓▓▓▓▓▓▓▓▓▓ Mastery
+Collective Intelligence: ▓▓▓▓▓▓▓▓▓░ Advanced
+Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
+```
+<sub>*Transforming thoughts into reality*</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ **Dimensional Impact Matrix**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_Digital_Realms_Created-50+-00D9FF?style=for-the-badge&labelColor=0d1117&color=00d9ff"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆_Victory_Frequencies-5+-FF6B6B?style=for-the-badge&labelColor=0d1117&color=ff6b6b"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Satisfaction_Resonance-∞-4CAF50?style=for-the-badge&labelColor=0d1117&color=4caf50"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🧠_Neural_Networks_Forged-25+-9C27B0?style=for-the-badge&labelColor=0d1117&color=9c27b0"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎭 **Technology Constellation**
+
+<div align="center">
+
+```
+                    🌟 AI/ML Universe 🌟
+                         /       \
+                   TensorFlow   PyTorch
+                      |           |
+              ┌───────┴───────────┴───────┐
+              │                           │
+         🚀 Web Cosmos 🚀           📱 Mobile Realm 📱
+            /        \                 /         \
+       React      Next.js         Flutter    React Native
+         |          |               |            |
+    ┌────┴────┐  ┌──┴──┐       ┌────┴────┐  ┌───┴───┐
+   Node.js  TypeScript      Dart      Swift
+```
+
 </div>
 
-## 🎯 Current Focus
+</div>
 
-- 🤖 Building next-generation AI applications
-- 📱 Developing cross-platform mobile solutions
-- 🌟 Growing Oyu Intelligence LLC
-- 📚 Advancing AI research and development
+<br/>
+
+## � **Impact & Experience**
+
+<div align="center">
+
+```
+🏢 Oyu Intelligence LLC (CEO)          🎨 Ehlel Brand (Creative Lead)
+   ├─ AI Product Development              ├─ Visual Content Strategy
+   ├─ Team Leadership                     └─ Brand Identity Design
+   └─ Product Strategy
+                                       💻 Freelance Developer
+                                          ├─ 50+ Websites Delivered
+                                          └─ 100% Client Satisfaction
+```
+
+</div>
+
+## 📊 **Developer Analytics**
+
+<div align="center">
+
+### 🔥 **Galactic Contribution Matrix**
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=🌠%20Cosmic%20Code%20Frequency%20🌠" alt="Cosmic Contribution Graph" />
+</div>
+
+<br/>
+
+### 🎮 **Cosmic Pacman Adventure**
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,6,12,20,24&height=60&section=header&text=🎮%20PACMAN%20EATING%20CONTRIBUTIONS%20🎮&fontSize=18&fontColor=64ffda&animation=blinking" alt="Pacman Header"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg" alt="🎮 Pacman eating my contributions"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/🎮_GAME_STATUS-ACTIVE-00D9FF?style=for-the-badge&labelColor=0B1426&logo=gamepad&logoColor=64ffda" alt="Game Status"/>
+<img src="https://img.shields.io/badge/🏆_HIGH_SCORE-∞_COMMITS-FF6B6B?style=for-the-badge&labelColor=0B1426&logo=trophy&logoColor=ff6b6b" alt="High Score"/>
+<img src="https://img.shields.io/badge/👾_LEVEL-COSMIC_MASTER-9C27B0?style=for-the-badge&labelColor=0B1426&logo=star&logoColor=9c27b0" alt="Level"/>
+
+</div>
+
+<br/>
+
+### 📈 **Performance Metrics**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&disable_animations=false" alt="GitHub Stats" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://streak-stats.demolab.com/?user=boldbat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d9ff" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 **Code Distribution & Activity**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&exclude_repo=README.md&card_width=445&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight&hide_border=true" alt="Profile Summary" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ **Real-time Insights**
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" alt="Language Distribution" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview&include_all_commits=true" alt="Contribution Overview" />
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&height=300" alt="Activity Graph" />
+</td>
+</tr>
+</table>
+
+</div>
+
+## 🎯 **Current Quantum State**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### � **Active Dimensions**
+```yaml
+🧠 Neural Architecture Design
+📱 Cross-Reality Mobile Solutions
+🌟 Intelligence Ecosystem Growth
+🔬 Quantum Learning Research
+```
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ **Energy Levels**
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Current%20Activity&include_all_commits=true&card_width=400" alt="Current Activity" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌊 **Coding Wavelengths**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/GitHub_Profile-boldbat-00D9FF?style=for-the-badge&labelColor=0d1117&logo=github" alt="GitHub Profile"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Time-2000+_hrs-00D9FF?style=for-the-badge&labelColor=0d1117&logo=clockify"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Active_Days-365+-4CAF50?style=for-the-badge&labelColor=0d1117&logo=calendar"/>
+</td>
+</tr>
+</table>
+
+</div>
 
 ## 📫 Let's Connect!
 
