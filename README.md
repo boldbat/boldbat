@@ -1,97 +1,155 @@
-# Hi there, I'm BOLDBAT.K 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=AI+Engineer+%26+Full-Stack+Developer;Founder+%26+CEO+at+Oyu+Intelligence;Building+the+Future+with+AI;Always+Learning+Something+New" alt="Typing SVG" />
+
+# 🚀 BOLDBAT.K
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Founder+%26+CEO+%40+Oyu+Intelligence;5%2B+Hackathon+Winner+%F0%9F%8F%86;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/boldbat)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:boldbat.nz@icloud.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://boldbat.dev)
+[![Location](https://img.shields.io/badge/Mongolia-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=FF6B6B)](https://maps.google.com/?q=Ulaanbaatar,Mongolia)
+
 </div>
 
+---
+
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boldbat)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boldbat.nz@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://boldbat.dev)
+
+### 🎯 **AI Entrepreneur** • **Full-Stack Innovator** • **5x Hackathon Champion**
+
+*Transforming ideas into intelligent solutions that shape the future*
 
 </div>
 
-## 🚀 About Me
+<br/>
 
-I'm a passionate **AI Engineer** and **Full-Stack Developer** from Ulaanbaatar, Mongolia, currently pursuing my Bachelor's in Artificial Intelligence at MUST. As the **Founder & CEO of Oyu Intelligence LLC**, I'm dedicated to building innovative AI-powered solutions that make a real impact.
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-- 🔭 Currently working on **AI-driven mobile applications** and **versatile AI solutions**
-- 🌱 Learning advanced **Computer Vision** and **Agentic AI** systems
-- 👯 Looking to collaborate on **AI/ML projects** and **innovative startups**
-- 💬 Ask me about **AI, Full-Stack Development, Flutter, or Entrepreneurship**
-- ⚡ Fun fact: I've won **5+ hackathons** and led **10+ volunteer projects**
+**🏢 Current Role**
+Founder & CEO at **Oyu Intelligence LLC**
+*Building AI-powered mobile solutions*
 
-## 🛠️ Tech Stack
+</td>
+<td align="center" width="50%">
 
-### Programming Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+**🎓 Education**
+AI & Computer Science
+*Mongolian University of Science & Technology*
 
-### Frameworks & Technologies
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</td>
+</tr>
+</table>
 
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+<br/>
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
-![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+## ⚡ **Tech Arsenal**
 
-## 🏆 Achievements & Awards
+<div align="center">
 
-🥇 **1st Place** - Sustainable School Hackathon (2022)  
-🥇 **1st Place** - National Anti-Corruption Hackathon (2024)  
-🥈 **2nd Place** - UNDP Digital Solutions Hackathon (2023)  
-🥉 **3rd Place** - National Data Telescope Hackathon (2023)  
-🏅 **Special Prize** - DX Cup Winter (2024)  
-🏅 **Special Prize** - National Karl Popper Debate Championship (2022)  
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" width="100%"/>
+<br/><sub><b>Core Languages</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react" width="100%"/>
+<br/><sub><b>Frameworks</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" width="75%"/>
+<br/><sub><b>AI/ML</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=figma,ps,ae" width="75%"/>
+<br/><sub><b>Design</b></sub>
+</td>
+</tr>
+</table>
 
-## 💼 Professional Experience
+</div>
 
-### 🚀 Founder & CEO | Oyu Intelligence LLC
-*September 2024 – Present*
-- Leading AI product development with focus on versatile mobile applications
-- Managing cross-functional teams of developers, designers, and marketers
-- Overseeing user testing, beta launches, and iterative improvements
+<br/>
 
-### 🎨 Creative Lead | Ehlel Brand
-*June 2024 - September 2024*
-- Directed visual content creation and digital marketing campaigns
-- Led visual branding for "Modest-Residence" project
+## 🏆 **Hall of Fame**
 
-### 💻 Freelance Web Developer
-*2019 - 2024*
-- Developed **50+ custom websites** with **100% client satisfaction**
-- Specialized in modern e-commerce platforms using Next.js
+<div align="center">
 
-## 🔥 Featured Projects
+| 🥇 **Champion** | 🥈 **Runner-up** | 🥉 **Third Place** | 🏅 **Special Recognition** |
+|:---:|:---:|:---:|:---:|
+| **Anti-Corruption Hackathon** 2024 | **UNDP Digital Solutions** 2023 | **Data Telescope Hackathon** 2023 | **DX Cup Winter** 2024 |
+| **Sustainable School Hackathon** 2022 | | | **Karl Popper Debate** 2022 |
 
-### 🚗 AI-based Car Sharing App
-- Implemented vehicle recognition using **YOLO V8**
-- Optimized shared mobility solutions efficiency
+</div>
 
-### 🎯 AI-driven Career Planning App
-- Developed personalized career advice platform
-- AI-powered recommendations based on user input
+<br/>
 
-### 🎮 AI Chatbot Integration in 2D Game
-- Created educational game with AI chatbot NPC
-- Focused on anti-corruption education strategies
+## 🚀 **Innovation Showcase**
 
-### 🇲🇳 Mongolia Guide App
-- All-in-one platform for freelancers and digital nomads
-- Features coworking spaces, local laws, and job opportunities
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### � **AI Car Sharing Platform**
+*YOLO V8 • Computer Vision*
+
+Smart vehicle recognition system optimizing shared mobility solutions
+
+</td>
+<td align="center" width="50%">
+
+### 🎯 **AI Career Advisor**
+*Machine Learning • Personalization*
+
+Intelligent career planning with personalized AI recommendations
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+### � **Educational AI Game**
+*2D Gaming • NLP Chatbot*
+
+Anti-corruption education through interactive AI-powered gameplay
+
+</td>
+<td align="center" width="50%">
+
+### 🇲🇳 **Mongolia Digital Nomad Hub**
+*Full-Stack • Mobile App*
+
+Complete platform for freelancers navigating Mongolia
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## � **Impact & Experience**
+
+<div align="center">
+
+```
+🏢 Oyu Intelligence LLC (CEO)          🎨 Ehlel Brand (Creative Lead)
+   ├─ AI Product Development              ├─ Visual Content Strategy
+   ├─ Team Leadership                     └─ Brand Identity Design
+   └─ Product Strategy
+                                       💻 Freelance Developer
+                                          ├─ 50+ Websites Delivered
+                                          └─ 100% Client Satisfaction
+```
+
+</div>
 
 ## 📊 GitHub Stats
 
