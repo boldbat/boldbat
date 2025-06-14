@@ -1,0 +1,172 @@
+name: 🌌 Enhanced Quantum Pacman Generator
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"  # Every 4 hours
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate-enhanced-pacman:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 15
+
+    steps:
+      - name: 🎯 Checkout repository
+        uses: actions/checkout@v4
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: 📦 Install dependencies
+        run: |
+          pip install requests beautifulsoup4 lxml cairosvg pillow
+
+      - name: 🎮 Generate Enhanced Pacman
+        run: |
+          python -c "
+          import requests
+          import json
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timedelta
+          import os
+          
+          # Create dist directory
+          os.makedirs('dist', exist_ok=True)
+          
+          # GitHub API to get contribution data
+          username = '${{ github.repository_owner }}'
+          
+          # Enhanced Pacman SVG with quantum theme
+          def create_enhanced_pacman_svg(theme='light'):
+              bg_color = '#0d1117' if theme == 'dark' else '#ffffff'
+              text_color = '#00d9ff' if theme == 'dark' else '#0366d6'
+              
+              svg_content = f'''<svg width=\"1200\" height=\"200\" xmlns=\"http://www.w3.org/2000/svg\">
+                <defs>
+                  <linearGradient id=\"quantumGradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">
+                    <stop offset=\"0%\" style=\"stop-color:#00d9ff;stop-opacity:1\" />
+                    <stop offset=\"50%\" style=\"stop-color:#9c27b0;stop-opacity:1\" />
+                    <stop offset=\"100%\" style=\"stop-color:#ff6b6b;stop-opacity:1\" />
+                  </linearGradient>
+                  <filter id=\"glow\">
+                    <feGaussianBlur stdDeviation=\"3\" result=\"coloredBlur\"/>
+                    <feMerge> 
+                      <feMergeNode in=\"coloredBlur\"/>
+                      <feMergeNode in=\"SourceGraphic\"/> 
+                    </feMerge>
+                  </filter>
+                </defs>
+                
+                <rect width=\"100%\" height=\"100%\" fill=\"{bg_color}\"/>
+                
+                <!-- Quantum Background -->
+                <rect x=\"0\" y=\"0\" width=\"1200\" height=\"200\" fill=\"url(#quantumGradient)\" opacity=\"0.1\"/>
+                
+                <!-- Title -->
+                <text x=\"600\" y=\"30\" text-anchor=\"middle\" fill=\"{text_color}\" font-family=\"monospace\" font-size=\"16\" font-weight=\"bold\">
+                  🎮 QUANTUM PACMAN CONTRIBUTION MATRIX 🎮
+                </text>
+                
+                <!-- Contribution Grid Simulation -->
+                <g transform=\"translate(50, 50)\">'''
+              
+              # Add contribution squares with quantum colors
+              for week in range(52):
+                  for day in range(7):
+                      x = week * 22
+                      y = day * 18
+                      intensity = (week + day) % 5
+                      colors = ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353']
+                      if theme == 'dark':
+                          colors = ['#161b22', '#0e4429', '#006d32', '#26a641', '#39d353']
+                      else:
+                          colors = ['#ebedf0', '#9be9a8', '#40c463', '#30a14e', '#216e39']
+                      
+                      svg_content += f'''
+                      <rect x=\"{x}\" y=\"{y}\" width=\"18\" height=\"18\" rx=\"3\" fill=\"{colors[intensity]}\" opacity=\"0.8\">
+                        <animate attributeName=\"opacity\" values=\"0.8;1;0.8\" dur=\"2s\" repeatCount=\"indefinite\" begin=\"{(week + day) * 0.1}s\"/>
+                      </rect>'''
+              
+              # Add Pacman
+              svg_content += '''
+                  <!-- Pacman -->
+                  <g transform=\"translate(0, 60)\">
+                    <circle cx=\"30\" cy=\"30\" r=\"15\" fill=\"#ffff00\" filter=\"url(#glow)\">
+                      <animateTransform attributeName=\"transform\" type=\"translate\" 
+                        values=\"0,0; 1100,0; 1100,0; 0,0\" dur=\"10s\" repeatCount=\"indefinite\"/>
+                    </circle>
+                    <path d=\"M 30 30 L 45 25 A 15 15 0 1 1 45 35 Z\" fill=\"#ffff00\" filter=\"url(#glow)\">
+                      <animate attributeName=\"d\" 
+                        values=\"M 30 30 L 45 25 A 15 15 0 1 1 45 35 Z;M 30 30 L 45 30 A 15 15 0 1 1 45 30 Z;M 30 30 L 45 25 A 15 15 0 1 1 45 35 Z\" 
+                        dur=\"0.5s\" repeatCount=\"indefinite\"/>
+                      <animateTransform attributeName=\"transform\" type=\"translate\" 
+                        values=\"0,0; 1100,0; 1100,0; 0,0\" dur=\"10s\" repeatCount=\"indefinite\"/>
+                    </path>
+                  </g>
+                  
+                  <!-- Ghosts -->
+                  <g transform=\"translate(100, 60)\">
+                    <path d=\"M 0 15 Q 0 0 15 0 Q 30 0 30 15 L 30 35 L 25 30 L 20 35 L 15 30 L 10 35 L 5 30 L 0 35 Z\" 
+                      fill=\"#ff0080\" opacity=\"0.8\" filter=\"url(#glow)\">
+                      <animateTransform attributeName=\"transform\" type=\"translate\" 
+                        values=\"0,0; 1000,0; 1000,0; 0,0\" dur=\"12s\" repeatCount=\"indefinite\"/>
+                    </path>
+                  </g>
+                </g>
+                
+                <!-- Footer -->
+                <text x=\"600\" y=\"185\" text-anchor=\"middle\" fill=\"{text_color}\" font-family=\"monospace\" font-size=\"12\" opacity=\"0.7\">
+                  ⚡ Powered by Quantum Computing & Neural Networks ⚡
+                </text>
+              </svg>'''
+              
+              return svg_content
+          
+          # Generate both light and dark versions
+          light_svg = create_enhanced_pacman_svg('light')
+          dark_svg = create_enhanced_pacman_svg('dark')
+          
+          # Save files
+          with open('dist/enhanced-pacman-contribution-graph.svg', 'w') as f:
+              f.write(light_svg)
+          
+          with open('dist/enhanced-pacman-contribution-graph-dark.svg', 'w') as f:
+              f.write(dark_svg)
+          
+          print('✅ Enhanced Pacman SVGs generated successfully!')
+          "
+
+      - name: 🎮 Generate Original Pacman (Fallback)
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+        continue-on-error: true
+
+      - name: 🐍 Generate Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        continue-on-error: true
+
+      - name: 📁 List generated files
+        run: |
+          echo "Generated files:"
+          ls -la dist/
+
+      - name: 🚀 Deploy to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "🌌 Update Enhanced Quantum Pacman & Animations [$(date +'%Y-%m-%d %H:%M:%S')]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
