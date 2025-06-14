@@ -202,7 +202,10 @@ Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
 <div align="center">
 
 ### 🔥 **Contribution Heatmap**
-![GitHub Contribution Snake](https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake-dark.svg)
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+</div>
 
 <br/>
 
@@ -231,12 +234,12 @@ Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=10&exclude_repo=README.md&card_width=445" alt="Top Languages" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=github_dark" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight" alt="Profile Summary" />
 
 </td>
 </tr>
@@ -248,19 +251,16 @@ Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
 
 <table align="center">
 <tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boldbat&theme=github_dark" alt="Repos per Language" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" alt="Language Distribution" />
 </td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boldbat&theme=github_dark" alt="Most Commit Language" />
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=boldbat&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&layout=compact" alt="Coding Activity" />
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boldbat&theme=github_dark" alt="Stats" />
-</td>
-<td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boldbat&theme=github_dark&utcOffset=8" alt="Productive Time" />
+<td align="center" colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&height=300" alt="Activity Graph" />
 </td>
 </tr>
 </table>
@@ -287,7 +287,7 @@ Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
 <td align="center" width="50%">
 
 ### ⚡ **Energy Levels**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=boldbat&repo=fitness_ai&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="Featured Project" />
 
 </td>
 </tr>
