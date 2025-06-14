@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 BOLDBAT.K
+# 🚀 BOLDBAT.Khuukhenduu
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Founder+%26+CEO+%40+Oyu+Intelligence;5%2B+Hackathon+Winner+%F0%9F%8F%86;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 
