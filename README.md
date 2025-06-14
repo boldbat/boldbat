@@ -215,16 +215,64 @@ Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&cache_seconds=86400" alt="GitHub Stats" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=boldbat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=boldbat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### 📅 **Historical Contributions**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔥 2024 Journey**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=2024%20Coding%20Journey&from=2024-01-01&to=2024-12-31&height=250" alt="2024 Activity" />
+
+</td>
+<td align="center" width="50%">
+
+**⚡ 2023 Evolution**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=2023%20Growth%20Path&from=2023-01-01&to=2023-12-31&height=250" alt="2023 Activity" />
+
+</td>
+</tr>
+<tr>
+<td align="center" colspan="2">
+
+**🚀 2022 Foundation**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=2022%20Building%20Blocks&from=2022-01-01&to=2022-12-31&height=200" alt="2022 Activity" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 📊 **Multi-Year Statistics**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=All-Time%20Stats" alt="All-Time GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&custom_title=Historical%20Languages" alt="Historical Languages" />
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
