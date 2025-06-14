@@ -8,7 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/boldbat)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:boldbat.nz@icloud.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://boldbat.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white&labelColor=000000)](https://boldbat.info)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white&labelColor=12100E)](https://medium.com/@boldbat.nz)
 [![Location](https://img.shields.io/badge/Mongolia-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white&labelColor=FF6B6B)](https://maps.google.com/?q=Ulaanbaatar,Mongolia)
 
 </div>
@@ -88,48 +89,93 @@ AI & Computer Science
 
 <br/>
 
-## 🚀 **Innovation Showcase**
+## 🌌 **Quantum Capabilities**
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### � **AI Car Sharing Platform**
-*YOLO V8 • Computer Vision*
-
-Smart vehicle recognition system optimizing shared mobility solutions
-
-</td>
-<td align="center" width="50%">
-
-### 🎯 **AI Career Advisor**
-*Machine Learning • Personalization*
-
-Intelligent career planning with personalized AI recommendations
+### 🧠 **Cognitive Architecture**
+```yaml
+Neural Synthesis:    ▓▓▓▓▓▓▓▓▓▓ Mastery
+Pattern Recognition: ▓▓▓▓▓▓▓▓▓░ Advanced
+Quantum Learning:    ▓▓▓▓▓▓▓▓▓▓ Mastery
+```
+<sub>*Where silicon meets synapses*</sub>
 
 </td>
-</tr>
-<tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### � **Educational AI Game**
-*2D Gaming • NLP Chatbot*
-
-Anti-corruption education through interactive AI-powered gameplay
+### 🌐 **Reality Weaving**
+```yaml
+Interface Conjuring: ▓▓▓▓▓▓▓▓▓▓ Mastery
+System Orchestration: ▓▓▓▓▓▓▓▓▓▓ Mastery
+Mobile Transmutation: ▓▓▓▓▓▓▓▓▓░ Advanced
+```
+<sub>*Crafting digital dimensions*</sub>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
-### 🇲🇳 **Mongolia Digital Nomad Hub**
-*Full-Stack • Mobile App*
-
-Complete platform for freelancers navigating Mongolia
+### 🚀 **Innovation Catalyst**
+```yaml
+Vision Materialization: ▓▓▓▓▓▓▓▓▓▓ Mastery
+Collective Intelligence: ▓▓▓▓▓▓▓▓▓░ Advanced
+Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
+```
+<sub>*Transforming thoughts into reality*</sub>
 
 </td>
 </tr>
 </table>
+
+<br/>
+
+### ⚡ **Dimensional Impact Matrix**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🌍_Digital_Realms_Created-50+-00D9FF?style=for-the-badge&labelColor=0d1117&color=00d9ff"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🏆_Victory_Frequencies-5+-FF6B6B?style=for-the-badge&labelColor=0d1117&color=ff6b6b"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Satisfaction_Resonance-∞-4CAF50?style=for-the-badge&labelColor=0d1117&color=4caf50"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🧠_Neural_Networks_Forged-25+-9C27B0?style=for-the-badge&labelColor=0d1117&color=9c27b0"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎭 **Technology Constellation**
+
+<div align="center">
+
+```
+                    🌟 AI/ML Universe 🌟
+                         /       \
+                   TensorFlow   PyTorch
+                      |           |
+              ┌───────┴───────────┴───────┐
+              │                           │
+         🚀 Web Cosmos 🚀           📱 Mobile Realm 📱
+            /        \                 /         \
+       React      Next.js         Flutter    React Native
+         |          |               |            |
+    ┌────┴────┐  ┌──┴──┐       ┌────┴────┐  ┌───┴───┐
+   Node.js  TypeScript      Dart      Swift
+```
+
+</div>
 
 </div>
 
@@ -151,26 +197,121 @@ Complete platform for freelancers navigating Mongolia
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 **Developer Analytics**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+### 🔥 **Contribution Heatmap**
+![GitHub Contribution Snake](https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake-dark.svg)
+
+<br/>
+
+### 📈 **Performance Metrics**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff" alt="GitHub Stats" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=boldbat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 **Code Distribution & Activity**
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+
+</td>
+<td align="center" width="50%">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=github_dark" alt="Profile Summary" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ **Real-time Insights**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boldbat&theme=github_dark" alt="Repos per Language" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boldbat&theme=github_dark" alt="Most Commit Language" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boldbat&theme=github_dark" alt="Stats" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=boldbat&theme=github_dark&utcOffset=8" alt="Productive Time" />
+</td>
+</tr>
+</table>
+
 </div>
+
+## 🎯 **Current Quantum State**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boldbat&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### � **Active Dimensions**
+```yaml
+🧠 Neural Architecture Design
+📱 Cross-Reality Mobile Solutions
+🌟 Intelligence Ecosystem Growth
+🔬 Quantum Learning Research
+```
+
+</td>
+<td align="center" width="50%">
+
+### ⚡ **Energy Levels**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌊 **Coding Wavelengths**
+
+<table align="center">
+<tr>
+<td align="center">
+<img src="https://wakatime.com/badge/user/boldbat.svg" alt="Total time coded since Jul 16 2016" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Code_Time-2000+_hrs-00D9FF?style=for-the-badge&labelColor=0d1117&logo=clockify"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Active_Days-365+-4CAF50?style=for-the-badge&labelColor=0d1117&logo=calendar"/>
+</td>
+</tr>
+</table>
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
-## 🎯 Current Focus
-
-- 🤖 Building next-generation AI applications
-- 📱 Developing cross-platform mobile solutions
-- 🌟 Growing Oyu Intelligence LLC
-- 📚 Advancing AI research and development
 
 ## 📫 Let's Connect!
 
