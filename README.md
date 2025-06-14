@@ -265,7 +265,13 @@ AI & Computer Science
 ### 🔥 **Contribution Heatmap**
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/boldbat/boldbat/output/pacman-contribution-graph.svg">
+</picture>
+
 </div>
 
 <br/>
