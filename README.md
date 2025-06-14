@@ -93,89 +93,150 @@ AI & Computer Science
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=header&text=⚛️%20QUANTUM%20REALM%20⚛️&fontSize=30&fontColor=00d9ff&animation=twinkling" alt="Quantum Header"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🔮 **Neural Architecture Matrix**
+
 <table>
 <tr>
 <td align="center" width="33%">
 
-### 🧠 **Cognitive Architecture**
-```yaml
-Neural Synthesis:    ▓▓▓▓▓▓▓▓▓▓ Mastery
-Pattern Recognition: ▓▓▓▓▓▓▓▓▓░ Advanced
-Quantum Learning:    ▓▓▓▓▓▓▓▓▓▓ Mastery
+<img src="https://img.shields.io/badge/🧠-COGNITIVE_CORE-00D9FF?style=for-the-badge&labelColor=0d1117&logo=brain&logoColor=00d9ff" alt="Cognitive Core"/>
+
+**🌟 Neural Synthesis**
+```diff
++ ████████████ 100% MASTERY
 ```
-<sub>*Where silicon meets synapses*</sub>
+
+**🎯 Pattern Recognition**
+```diff
++ ██████████░░  85% ADVANCED
+```
+
+**⚡ Quantum Learning**
+```diff
++ ████████████ 100% MASTERY
+```
+
+<sub>🔬 *Where silicon meets synapses*</sub>
 
 </td>
 <td align="center" width="33%">
 
-### 🌐 **Reality Weaving**
-```yaml
-Interface Conjuring: ▓▓▓▓▓▓▓▓▓▓ Mastery
-System Orchestration: ▓▓▓▓▓▓▓▓▓▓ Mastery
-Mobile Transmutation: ▓▓▓▓▓▓▓▓▓░ Advanced
+<img src="https://img.shields.io/badge/🌐-REALITY_ENGINE-FF6B6B?style=for-the-badge&labelColor=0d1117&logo=globe&logoColor=ff6b6b" alt="Reality Engine"/>
+
+**🎨 Interface Conjuring**
+```diff
++ ████████████ 100% MASTERY
 ```
-<sub>*Crafting digital dimensions*</sub>
+
+**🔧 System Orchestration**
+```diff
++ ████████████ 100% MASTERY
+```
+
+**📱 Mobile Transmutation**
+```diff
++ ██████████░░  90% ADVANCED
+```
+
+<sub>✨ *Crafting digital dimensions*</sub>
 
 </td>
 <td align="center" width="33%">
 
-### 🚀 **Innovation Catalyst**
-```yaml
-Vision Materialization: ▓▓▓▓▓▓▓▓▓▓ Mastery
-Collective Intelligence: ▓▓▓▓▓▓▓▓▓░ Advanced
-Strategic Alchemy:      ▓▓▓▓▓▓▓▓▓▓ Mastery
+<img src="https://img.shields.io/badge/🚀-INNOVATION_HUB-9C27B0?style=for-the-badge&labelColor=0d1117&logo=rocket&logoColor=9c27b0" alt="Innovation Hub"/>
+
+**💡 Vision Materialization**
+```diff
++ ████████████ 100% MASTERY
 ```
-<sub>*Transforming thoughts into reality*</sub>
+
+**🤝 Collective Intelligence**
+```diff
++ ██████████░░  88% ADVANCED
+```
+
+**⚗️ Strategic Alchemy**
+```diff
++ ████████████ 100% MASTERY
+```
+
+<sub>🌟 *Transforming thoughts into reality*</sub>
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-### ⚡ **Dimensional Impact Matrix**
+<div align="center">
+
+### ⚡ **Quantum Impact Metrics**
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🌍_Digital_Realms_Created-50+-00D9FF?style=for-the-badge&labelColor=0d1117&color=00d9ff"/>
+<img src="https://img.shields.io/badge/🌍_DIGITAL_REALMS-50+_CREATED-00D9FF?style=for-the-badge&labelColor=0d1117&color=00d9ff&logo=earth&logoColor=00d9ff" alt="Digital Realms"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🏆_Victory_Frequencies-5+-FF6B6B?style=for-the-badge&labelColor=0d1117&color=ff6b6b"/>
+<img src="https://img.shields.io/badge/🏆_VICTORY_NODES-5+_UNLOCKED-FF6B6B?style=for-the-badge&labelColor=0d1117&color=ff6b6b&logo=trophy&logoColor=ff6b6b" alt="Victory Nodes"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/🎯_Satisfaction_Resonance-∞-4CAF50?style=for-the-badge&labelColor=0d1117&color=4caf50"/>
+<img src="https://img.shields.io/badge/🎯_SATISFACTION_FIELD-∞_RESONANCE-4CAF50?style=for-the-badge&labelColor=0d1117&color=4caf50&logo=target&logoColor=4caf50" alt="Satisfaction Field"/>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/🧠_Neural_Networks_Forged-25+-9C27B0?style=for-the-badge&labelColor=0d1117&color=9c27b0"/>
+<img src="https://img.shields.io/badge/🧠_NEURAL_NETWORKS-25+_FORGED-9C27B0?style=for-the-badge&labelColor=0d1117&color=9c27b0&logo=brain&logoColor=9c27b0" alt="Neural Networks"/>
 </td>
 </tr>
 </table>
 
-<br/>
+</div>
 
-### 🎭 **Technology Constellation**
+<br/>
 
 <div align="center">
 
-```
-                    🌟 AI/ML Universe 🌟
-                         /       \
-                   TensorFlow   PyTorch
-                      |           |
-              ┌───────┴───────────┴───────┐
-              │                           │
-         🚀 Web Cosmos 🚀           📱 Mobile Realm 📱
-            /        \                 /         \
-       React      Next.js         Flutter    React Native
-         |          |               |            |
-    ┌────┴────┐  ┌──┴──┐       ┌────┴────┐  ┌───┴───┐
-   Node.js  TypeScript      Dart      Swift
+### 🎭 **Technology Constellation**
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=6,11,20&height=50&section=header&text=⭐%20TECH%20UNIVERSE%20⭐&fontSize=20&fontColor=ffffff" alt="Tech Universe"/>
+
+```ascii
+                    🌟 AI/ML QUANTUM CORE 🌟
+                         ╱               ╲
+                   TensorFlow ⚡     ⚡ PyTorch
+                      ║                   ║
+              ╔═══════╩═══════════════════╩═══════╗
+              ║                                   ║
+         🚀 WEB COSMOS 🚀               📱 MOBILE REALM 📱
+            ╱        ╲                     ╱         ╲
+       React      Next.js             Flutter    React Native
+         ║          ║                   ║            ║
+    ╔════╩════╗  ╔══╩══╗           ╔════╩════╗  ╔═══╩═══╗
+   Node.js  TypeScript            Dart      Swift
 ```
 
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nextjs,flutter,nodejs,typescript,dart,swift&theme=dark" alt="Tech Stack"/>
+
 </div>
+
+<br/>
+
+<div align="center">
+
+### 🌊 **Quantum Wavelength Analyzer**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=⚛️%20Quantum%20Code%20Frequency%20⚛️&height=200" alt="Quantum Frequency"/>
 
 </div>
 
