@@ -282,7 +282,7 @@ AI & Computer Science
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&disable_animations=false" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&disable_animations=false&cache_seconds=1800" alt="GitHub Stats" />
 
 </td>
 <td align="center" width="50%">
@@ -301,7 +301,7 @@ AI & Computer Science
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=445&size_weight=0.5&count_weight=0.5&include_all_commits=true&hide=html,css" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
 
 </td>
 <td align="center" width="50%">
@@ -319,10 +319,10 @@ AI & Computer Science
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&include_all_commits=true" alt="Language Distribution" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" alt="Language Distribution" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview" alt="Contribution Overview" />
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview&cache_seconds=1800" alt="Contribution Overview" />
 </td>
 </tr>
 <tr>
@@ -354,7 +354,7 @@ AI & Computer Science
 <td align="center" width="50%">
 
 ### ⚡ **Energy Levels**
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Current%20Activity&include_all_commits=true&card_width=400" alt="Current Activity" />
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Current%20Activity&include_all_commits=true&card_width=400&cache_seconds=1800" alt="Current Activity" />
 
 </td>
 </tr>
