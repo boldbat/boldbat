@@ -301,12 +301,12 @@ AI & Computer Science
 <tr>
 <td align="center" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&exclude_repo=README.md&card_width=445&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&card_width=445&size_weight=0.5&count_weight=0.5&include_all_commits=true&hide=html,css" alt="Top Languages" />
 
 </td>
 <td align="center" width="50%">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight&hide_border=true" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight" alt="Profile Summary" />
 
 </td>
 </tr>
@@ -319,7 +319,7 @@ AI & Computer Science
 <table align="center">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6" alt="Language Distribution" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&include_all_commits=true" alt="Language Distribution" />
 </td>
 <td align="center" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview&include_all_commits=true" alt="Contribution Overview" />
