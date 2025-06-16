@@ -322,7 +322,7 @@ AI & Computer Science
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&include_all_commits=true" alt="Language Distribution" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview&include_all_commits=true" alt="Contribution Overview" />
+<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview" alt="Contribution Overview" />
 </td>
 </tr>
 <tr>
