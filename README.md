@@ -2,7 +2,7 @@
 
 # 🚀 BOLDBAT
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Founder+%26+CEO+%40+Oyu+Intelligence;5%2B+Hackathon+Winner+%F0%9F%8F%86;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Full-Stack+Developer;Building+AI-Powered+Solutions;5%2B+Hackathon+Winner+%F0%9F%8F%86;Building+Tomorrow's+Technology+Today" alt="Typing SVG" />
 
 <br/>
 
@@ -30,8 +30,8 @@
 <tr>
 <td align="center" width="50%">
 
-**🏢 Current Role**
-Founder & CEO at **Oyu Intelligence LLC**
+**🏢 Current Focus**
+Leading **Oyu Intelligence LLC**
 *Building AI-powered mobile solutions*
 
 </td>
@@ -247,7 +247,7 @@ AI & Computer Science
 <div align="center">
 
 ```
-🏢 Oyu Intelligence LLC (CEO)          🎨 Ehlel Brand (Creative Lead)
+🏢 Oyu Intelligence LLC                🎨 Ehlel Brand (Creative Lead)
    ├─ AI Product Development              ├─ Visual Content Strategy
    ├─ Team Leadership                     └─ Brand Identity Design
    └─ Product Strategy
