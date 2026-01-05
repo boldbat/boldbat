@@ -26,6 +26,8 @@
 
 <br/>
 
+<div align="center">
+
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -45,32 +47,17 @@ AI & Computer Science
 </tr>
 </table>
 
+</div>
+
 <br/>
 
 ## ⚡ **Tech Arsenal**
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=ts,js,python,cpp" width="100%"/>
-<br/><sub><b>Core Languages</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react" width="100%"/>
-<br/><sub><b>Frameworks</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" width="75%"/>
-<br/><sub><b>AI/ML</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=figma,ps,ae" width="75%"/>
-<br/><sub><b>Design</b></sub>
-</td>
-</tr>
-</table>
+| **Core Languages** | **Frameworks** | **AI/ML** | **Design** |
+|:---:|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=ts,js,python,cpp&theme=dark" width="160px"/> | <img src="https://skillicons.dev/icons?i=nodejs,nextjs,flutter,react&theme=dark" width="160px"/> | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" width="120px"/> | <img src="https://skillicons.dev/icons?i=figma,ps,ae&theme=dark" width="120px"/> |
 
 </div>
 
@@ -213,17 +200,17 @@ AI & Computer Science
 
 ```ascii
                     🌟 AI/ML QUANTUM CORE 🌟
-                         ╱               ╲
-                   TensorFlow ⚡     ⚡ PyTorch
-                      ║                   ║
-              ╔═══════╩═══════════════════╩═══════╗
-              ║                                   ║
-         🚀 WEB COSMOS 🚀               📱 MOBILE REALM 📱
-            ╱        ╲                     ╱         ╲
-       React      Next.js             Flutter    React Native
-         ║          ║                   ║            ║
-    ╔════╩════╗  ╔══╩══╗           ╔════╩════╗  ╔═══╩═══╗
-   Node.js  TypeScript            Dart      Swift
+                          ╱               ╲
+                    TensorFlow ⚡     ⚡ PyTorch
+                       ║                   ║
+               ╔═══════╩═══════════════════╩═══════╗
+               ║                                   ║
+          🚀 WEB COSMOS 🚀               📱 MOBILE REALM 📱
+             ╱        ╲                     ╱         ╲
+        React      Next.js             Flutter    React Native
+          ║          ║                   ║            ║
+     ╔════╩════╗  ╔══╩══╗           ╔════╩════╗  ╔═══╩═══╗
+    Node.js  TypeScript            Dart      Swift
 ```
 
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,react,nextjs,flutter,nodejs,typescript,dart,swift&theme=dark" alt="Tech Stack"/>
@@ -232,17 +219,59 @@ AI & Computer Science
 
 <br/>
 
+## 📊 **Developer Analytics**
+
 <div align="center">
 
-### 🌊 **Quantum Wavelength Analyzer**
+### 🐍 **Contribution Flow**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=⚛️%20Quantum%20Code%20Frequency%20⚛️&height=200" alt="Quantum Frequency"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/>
+
+### 📈 **Quantum Stats & Activity**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=boldbat&theme=tokyonight" alt="GitHub Stats" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight" alt="Profile Summary" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🎯 **Language Distribution Matrix**
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=boldbat&theme=tokyonight" alt="Most Commit Language" />
+</td>
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=boldbat&theme=tokyonight" alt="Repos per Language" />
+</td>
+</tr>
+</table>
+
+<br/>
+
+### ⚡ **Real-time Code Frequency**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&height=300" alt="Activity Graph" />
 
 </div>
 
 <br/>
 
-## � **Impact & Experience**
+## 🏢 **Enterprise & Impact**
 
 <div align="center">
 
@@ -258,144 +287,31 @@ AI & Computer Science
 
 </div>
 
-## 📊 **Developer Analytics**
+<br/>
+
+## 📫 **Let's Synchronize!**
 
 <div align="center">
 
-### 🔥 **Contribution Heatmap**
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/boldbat/boldbat/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
+| **Email** | **Phone** | **Location** |
+|:---:|:---:|:---:|
+| [boldbat.nz@icloud.com](mailto:boldbat.nz@icloud.com) | +976 86970213 | Ulaanbaatar, Mongolia |
 
 <br/>
 
-### 📈 **Performance Metrics**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&include_all_commits=true&disable_animations=false&cache_seconds=1800" alt="GitHub Stats" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://streak-stats.demolab.com/?user=boldbat&theme=tokyonight&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff&sideLabels=c9d1d9&dates=c9d1d9&stroke=00d9ff" alt="GitHub Streak" />
-
-</td>
-</tr>
-</table>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boldbat)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://boldbat.info)
 
 <br/>
 
-### 🎯 **Code Distribution & Activity**
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=8&cache_seconds=1800" alt="Top Languages" />
-
-</td>
-<td align="center" width="50%">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=boldbat&theme=tokyonight" alt="Profile Summary" />
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=boldbat&color=00d9ff&style=flat-square&label=QUANTUM+VISITS" alt="Profile Views" />
 
 <br/>
 
-### ⚡ **Real-time Insights**
-
-<table align="center">
-<tr>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=boldbat&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&langs_count=6&cache_seconds=1800" alt="Language Distribution" />
-</td>
-<td align="center" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Contribution%20Overview&cache_seconds=1800" alt="Contribution Overview" />
-</td>
-</tr>
-<tr>
-<td align="center" colspan="2">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=boldbat&theme=tokyo-night&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&height=300" alt="Activity Graph" />
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🎯 **Current Quantum State**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### � **Active Dimensions**
-```yaml
-🧠 Neural Architecture Design
-📱 Cross-Reality Mobile Solutions
-🌟 Intelligence Ecosystem Growth
-🔬 Quantum Learning Research
-```
-
-</td>
-<td align="center" width="50%">
-
-### ⚡ **Energy Levels**
-<img src="https://github-readme-stats.vercel.app/api?username=boldbat&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9&icon_color=00d9ff&custom_title=Current%20Activity&include_all_commits=true&card_width=400&cache_seconds=1800" alt="Current Activity" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-### 🌊 **Coding Wavelengths**
-
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/GitHub_Profile-boldbat-00D9FF?style=for-the-badge&labelColor=0d1117&logo=github" alt="GitHub Profile"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Code_Time-2000+_hrs-00D9FF?style=for-the-badge&labelColor=0d1117&logo=clockify"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Active_Days-365+-4CAF50?style=for-the-badge&labelColor=0d1117&logo=calendar"/>
-</td>
-</tr>
-</table>
-
-</div>
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on innovative projects and discuss the latest in AI and technology. Feel free to reach out!
-
-**📧 Email:** boldbat.nz@icloud.com  
-**📱 Phone:** +976 86970213  
-**📍 Location:** Ulaanbaatar, Mongolia
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=boldbat&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<div align="center">
-  
 *"Building the future, one line of code at a time."* 🚀
 
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00d9ff&height=50&section=footer" />
 </div>
